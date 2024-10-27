@@ -172,9 +172,6 @@ classDiagram
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
-## 📞 Contact
-
-Project Link: [https://github.com/yourusername/LuxeWheels](https://github.com/yourusername/LuxeWheels)
 
 ---
 
