@@ -127,10 +127,11 @@ java paquete.WelcomeWindow
 ## 📸 Screenshots
 
 <div align="center">
-<img src="screenshots/welcome.png" alt="Welcome Screen" width="250"/>
-<img src="screenshots/vehicles.png" alt="Vehicle Selection" width="250"/>
-<img src="screenshots/payment.png" alt="Payment Process" width="250"/>
+<img src="https://github.com/Ornella-Gigante/LuxeWheels-Premium-Car-Rental-System/blob/main/WELCOME.png" alt="Welcome Screen" width="250"/>
+<img src="https://github.com/Ornella-Gigante/LuxeWheels-Premium-Car-Rental-System/blob/main/selection.png" alt="Vehicle Selection" width="250"/>
+<img src="https://github.com/Ornella-Gigante/LuxeWheels-Premium-Car-Rental-System/blob/main/payment.png" alt="Payment Process" width="250"/>
 </div>
+
 
 ## 🤝 Contributing
 
