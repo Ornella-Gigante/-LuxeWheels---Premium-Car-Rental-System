@@ -180,6 +180,5 @@ Distributed under the MIT License. See `LICENSE` file for more information.
   
 ⭐️ If you find this project useful, please consider giving it a star!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/LuxeWheels.svg?style=social&label=Star)](https://github.com/yourusername/LuxeWheels/stargazers/)
 
 </div>
